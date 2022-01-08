@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Site
 
 You can use the [editor on GitHub](https://github.com/shreyjain13/site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
